@@ -1,0 +1,14 @@
+.create {
+   display: block;
+   height: 40px;
+   width: 140px;
+   margin: 50px auto;
+   background: #ccc;
+   color: #fff;
+   border: 1px solid #777;
+   border-radius: 0;
+   text-align: center;
+   line-height: 40px;
+   font-size: 14px;
+   box-shadow: none;
+}
